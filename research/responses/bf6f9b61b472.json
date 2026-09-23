@@ -1,0 +1,913 @@
+{
+  "schema": "value_hunter_unified_research_response_v1_0",
+  "packet_id": "bf6f9b61b472",
+  "created_utc": "2026-09-23T15:47:34.336222+00:00",
+  "observations": [
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971550",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Mister Rizz",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/rosehill/2026-09-26/R4/enhanced-form",
+      "direction": 0.55,
+      "confidence": 0.6,
+      "note": "Enhanced form lists x33x1 and records a last-start win at Randwick over 1800m, supporting positive current-form evidence."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971550",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Anthracite",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/rosehill/2026-09-26/R4/enhanced-form",
+      "direction": 0.5,
+      "confidence": 0.58,
+      "note": "Enhanced form lists 34321, including a last-start win, supporting positive current-form evidence."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971555",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Kimberley Secrets",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/rosehill/2026-09-26/R10/enhanced-form",
+      "direction": 0.45,
+      "confidence": 0.58,
+      "note": "Enhanced form lists x2522, showing consecutive recent second placings and consistent current form."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971555",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Lightning Glory",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/rosehill/2026-09-26/R10/enhanced-form",
+      "direction": 0.4,
+      "confidence": 0.52,
+      "note": "Enhanced form lists 1110x, showing three consecutive wins before the latest run/spell."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971555",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Royal Commodore",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/rosehill/2026-09-26/R10/enhanced-form",
+      "direction": 0.35,
+      "confidence": 0.5,
+      "note": "Enhanced form lists 2117x, including two wins in the recent preparation before the spell."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "The Local",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing NSW",
+      "source_type": "official_form",
+      "source_quality": "official",
+      "source_ref": "https://mdata.racingnsw.com.au/FreeFields/Form.aspx?Key=2026Sep24%2CNSW%2CGoulburn",
+      "direction": 0.65,
+      "confidence": 0.68,
+      "note": "Official Racing NSW form lists The Local with last-10 form of 1 in this Class 1, confirming an unbeaten debut profile entering the race."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Glenn's Legacy",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing NSW",
+      "source_type": "official_form",
+      "source_quality": "official",
+      "source_ref": "https://mdata.racingnsw.com.au/FreeFields/Form.aspx?Key=2026Sep24%2CNSW%2CGoulburn",
+      "direction": 0.4,
+      "confidence": 0.58,
+      "note": "Official Racing NSW form lists recent form 5x57318433, including consecutive recent third placings, supporting consistent current form."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Fleet Flyer",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.co.uk/form-guide/thoroughbred/australia/hawkesbury/2026-09-24/R7",
+      "direction": 0.45,
+      "confidence": 0.56,
+      "note": "Form guide lists 49x14 and a 33% career win rate from six starts, with a first-up win this preparation."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "The Biv",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Paddy Power",
+      "source_type": "market_form",
+      "source_quality": "independent_market",
+      "source_ref": "https://www.paddypower.com/horse-racing/hawkesbury/r7-1100m-hcap-2026-09-24/36102737.0725",
+      "direction": 0.35,
+      "confidence": 0.48,
+      "note": "Published race card lists recent form 184x1, including a first-up win."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Our Noble Boy",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Paddy Power",
+      "source_type": "market_form",
+      "source_quality": "independent_market",
+      "source_ref": "https://www.paddypower.com/horse-racing/hawkesbury/r7-1100m-hcap-2026-09-24/36102737.0725",
+      "direction": 0.35,
+      "confidence": 0.48,
+      "note": "Published race card lists recent form 9x2x1, including a last-start win."
+    }
+  ],
+  "research_completion": [
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Anthracite",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Mukhtalif",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Mister Rizz",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Bear On The Loose",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Starzintheireyes",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Aethelflaed",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "King Jerry",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Pinhole",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Medatsu",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Starphistocated",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Our Anchorage",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Savisanta",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 4,
+      "runner": "Furious",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Kimberley Secrets",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Lightning Glory",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Mercy Me",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Royal Commodore",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Farnicle",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Beau Bandit",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Banjora",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Lull",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Street Artist",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Cantiamo",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Charming Nic",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Annie's Rose",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Wootton Lass",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Lulumon",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Jasmin Rouge",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Oh Yes She Did",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Who But Roo",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Incognito",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Do Ya Punk",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Fierce",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 10,
+      "runner": "Petticoat",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Howdoyouzou",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Angel Ladder",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Propaganda",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Yoweri",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "First Mission",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Viale",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Shows A Sign",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Dr Farthing",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Sweet Hesitation",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Chalice Well",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Hidden Nugget",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Star Rapper",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Air We Go",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Devil Devil",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Thundering Soul",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "Acres Away",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "American Conquest",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 4,
+      "runner": "King Jester",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "No Drama",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "This Is One",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Mean Approach",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Off The Press",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Shelstein",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Huon",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Amuseantes",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Kadall",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Estrondo",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Jack Be Lucky",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Krakarib",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Tonneofgrit",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Perle De Chocolat",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Our Magnus",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Blantons Run",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Toowoomba",
+      "race_number": 6,
+      "runner": "Irama",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Do Ya Head In",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Classic Touch",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Faerywood",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Glenn's Legacy",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Jungle Lights",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Nefradite",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "The Glen",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "The Local",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Willingham",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Slay Queen",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Goulburn",
+      "race_number": 7,
+      "runner": "Sheezaspeedqueen",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Frostisen",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Dodi",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Edge Of Midnight",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Fleet Flyer",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Flight Of Power",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "I Am Adonis",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Lady Shenanigans",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Our Noble Boy",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Portico",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Vain Temptress",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "The Biv",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Borderfall",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Moscow Maid",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Hawkesbury",
+      "race_number": 7,
+      "runner": "Peleus",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    }
+  ]
+}
