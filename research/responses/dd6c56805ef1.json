@@ -1,0 +1,782 @@
+{
+  "schema": "value_hunter_unified_research_response_v1_0",
+  "packet_id": "dd6c56805ef1",
+  "research_method": "Race-wide web review. Evidence is emitted only where sufficiently runner-specific, source-supported information was found; otherwise RESEARCHED_NO_EVIDENCE is recorded rather than inferred.",
+  "observations": [
+    {
+      "target_date": "2026-09-26",
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Simply Mac",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 1,
+      "confidence": 0.62,
+      "source": "GoBet Murray Bridge Tips",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.gobet.com.au/horse-racing-tips/murray-bridge-september-26-2026/",
+      "source_url": "https://www.gobet.com.au/horse-racing-tips/murray-bridge-september-26-2026/",
+      "note": "Preview selected Simply Mac, citing a 1.3-length Murray Bridge win last start, Will Price riding and a favourable draw."
+    },
+    {
+      "target_date": "2026-09-26",
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Boyd",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 1,
+      "confidence": 0.66,
+      "source": "GoBet Murray Bridge Tips",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.gobet.com.au/horse-racing-tips/murray-bridge-september-26-2026/",
+      "source_url": "https://www.gobet.com.au/horse-racing-tips/murray-bridge-september-26-2026/",
+      "note": "Preview selected Boyd, citing three wins from his last four starts and a last-start Morphettville win by just over a length."
+    },
+    {
+      "target_date": "2026-09-26",
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Fast Tempo",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 1,
+      "confidence": 0.62,
+      "source": "GoBet Murray Bridge Tips",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.gobet.com.au/horse-racing-tips/murray-bridge-september-26-2026/",
+      "source_url": "https://www.gobet.com.au/horse-racing-tips/murray-bridge-september-26-2026/",
+      "note": "Preview selected Fast Tempo, citing three wins from the last four starts and a 1.8-length last-start win; it also noted barrier 11 as a negative."
+    },
+    {
+      "target_date": "2026-09-26",
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Perfect Ten",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 1,
+      "confidence": 0.55,
+      "source": "Racing and Sports",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/R8/enhanced-form",
+      "source_url": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/R8/enhanced-form",
+      "note": "Enhanced form lists recent form 21211 entering the Mornington BM84."
+    },
+    {
+      "target_date": "2026-09-26",
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Plunger",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 1,
+      "confidence": 0.5,
+      "source": "Racing and Sports",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/race-fields",
+      "source_url": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/race-fields",
+      "note": "Published race field lists recent form 11x2."
+    }
+  ],
+  "research_completion": [
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Imperial Award",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Plunger",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Bacash",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Electric Elvis",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Spirit Of Wealth",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Lawborough",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Weapon Clear",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Georgie Get Mad",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Warrior Within",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Tsarine",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Dollar Shot",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Bedourie",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Yum",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Talkin' Italian",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Flying Mikki",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 2,
+      "runner": "Just For Show",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Xtra Rush",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Perfect Ten",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Veyepee",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Buccleuch",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Mr Verse",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Victorious Spirit",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Flying Valley",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Castle On High",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Nation's Call",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Reset The Jazz",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Sneaky Sunrise",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Sun Gift",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Foujita San",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Regal Lion",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 8,
+      "runner": "Dark Journey",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Ramasis",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Safe Bet",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Olivia Marie",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Obucci",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Purfect Line",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Vaniteux",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Bedourie",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Golden Cloud",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Gin Rummy",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Skytalker",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Brimarvi Rosemarie",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Rocktagon",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Tripod Terror",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "Mandara Sun",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "De Luca",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 2,
+      "runner": "City Pro",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Simply Mac",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Canny Miss",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Heart Of The Med",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Cattle Camp",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Trade Game",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Blanc Visage",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Bellentia",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Meg's Magic",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Aloha Blue",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Alaa Plenty",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Royal Turf",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Expert Witness",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Elegant Lilly",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Summertime Madness",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Up The Front",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Lady Memphis",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Garcon Renard",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 7,
+      "runner": "Over Yonder",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Never Ordinary",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Boyd",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Up The Den",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Fill A Promise",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Daisydoo",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Gold Spirit",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Arisphere",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Mintulee",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Surprisatic",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Omaha Dawn",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Bristler",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Grand Host",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Big Brute",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Interest Point",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Harry Got Styles",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Starlite Valley",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Holy Racket",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Walter Spur",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 8,
+      "runner": "Raikoke",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Falls Of Acharn",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Itsukushima",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Maldini",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Victorious Spirit",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Fast Tempo",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Snoopy Now",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Mellifluent",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Geffina",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Inevitable Award",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Freedom Flame",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Tanganyika",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Buillt",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Champagne Jenni",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Hard Prince",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 9,
+      "runner": "Lomax",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    }
+  ]
+}
