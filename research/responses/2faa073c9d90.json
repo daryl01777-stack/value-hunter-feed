@@ -1,0 +1,817 @@
+{
+  "schema": "value_hunter_unified_research_response_v1_0",
+  "packet_id": "2faa073c9d90",
+  "created_utc": "2026-09-23T15:35:48.399974+00:00",
+  "observations": [
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971570",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Sapphire Siren",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/R5/enhanced-form",
+      "direction": 0.55,
+      "confidence": 0.6,
+      "note": "Enhanced form lists 131x1, including a last-start win, supporting positive current-form evidence."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971570",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Johnich",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/R5/enhanced-form",
+      "direction": 0.35,
+      "confidence": 0.52,
+      "note": "Enhanced form lists 055x1, indicating a last-start win on return."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971571",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Leonchroi",
+      "bet": "BOTH",
+      "evidence_type": "DISTANCE_TRACK",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://lb-oci.racingandsports.com/form-guide/thoroughbred/australia/mornington/2026-09-26/R6",
+      "direction": 0.7,
+      "confidence": 0.7,
+      "note": "Form guide records a 4.8-length win over 2400m at Sandown on 2 Sep 2026; race is also 2400m."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971572",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Concord Connie",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/R7/enhanced-form",
+      "direction": 0.75,
+      "confidence": 0.68,
+      "note": "Enhanced form lists x111x, showing three consecutive wins before the spell."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971572",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Queen Christine",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "race_fields",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/mornington/2026-09-26/race-fields",
+      "direction": 0.55,
+      "confidence": 0.58,
+      "note": "Published field lists recent form 61114, supporting strong recent winning form despite the latest fourth."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971536",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Tiptop Tori",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://lb-oci.racingandsports.com/form-guide/thoroughbred/australia/murray-bridge/2026-09-26/R3",
+      "direction": 0.55,
+      "confidence": 0.62,
+      "note": "Form guide shows a Listed win at Morphettville over 1600m in May 2026 and a 22% career win rate; current race is BM68."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971549",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Bluish Hue",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://lb-oci.racingandsports.com/form-guide/thoroughbred/australia/rosehill/2026-09-26/R2",
+      "direction": 0.6,
+      "confidence": 0.65,
+      "note": "Form guide lists three consecutive seconds this preparation and a 50% career place rate, supporting current consistency."
+    }
+  ],
+  "research_completion": [
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Sapphire Siren",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Mr O'Reilly",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Taka Speed",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Ziryab",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Itazura",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Federer",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Vegas Jack",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Bur Dubai",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "House Of Lords",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Lincoln Rocks",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Johnich",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Nothingelsematters",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Politely Dun",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 5,
+      "runner": "Raging Bull",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Asva",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Sunset Park",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Beach Pad",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Leonchroi",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Chief Little Rock",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Hurry Curry",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Ruakaka Raider",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Shultzy",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Grand Pierro",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Zarir",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Taramansour",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 6,
+      "runner": "Go Daddy",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Kokako",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Terilee",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Queen Christine",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Jewel Of Heaven",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Kippis",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Concord Connie",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Grand Omaha",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Sun Setting",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Mrs Archibald",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "My Zephyr",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Per Sempre",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Hankee Alpha",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Egerton",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Jennyanydots",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Mornington",
+      "race_number": 7,
+      "runner": "Princess Que",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Midlife Crisis",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "From The Block",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Sir Myka",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Jilladora",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Tiptop Tori",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Dothraki",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Riche D'Amour",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Sir Leapalot",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Mostly For Show",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Surprise Coming",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Halliwell",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 3,
+      "runner": "Three Rings",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Brave Apache",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Extinguish",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Florey",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Dirty Deal",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Zadows Landing",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Final Countdown",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Common Interest",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Fiora Blue",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Mansiere",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "All Too Mysti",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Costless",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Speedtail",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Nasho",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Chipson",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Yasuke",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Blakmax",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Murray Bridge",
+      "race_number": 6,
+      "runner": "Demiquaver",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Giddy Up Griff",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Sipping Shamus",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Zou Force",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Xtreme",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Condone",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Daylite",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Street Force",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Bluish Hue",
+      "status": "EVIDENCE_FOUND",
+      "evidence_observations_added": 1
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Whateley",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Restless Spirit",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Vltava",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "The Main Event",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Deeply",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Heart Balm",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Bourbon Queen",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Party It Down",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Rosehill",
+      "race_number": 2,
+      "runner": "Bulla Vinaka",
+      "status": "RESEARCHED_NO_EVIDENCE",
+      "evidence_observations_added": 0
+    }
+  ]
+}
