@@ -1,0 +1,1042 @@
+{
+  "schema": "value_hunter_unified_research_response_v1_0",
+  "packet_id": "6f28b3dc0829",
+  "created_utc": "2026-09-24T04:51:40.479Z",
+  "research_method": "Race-wide review of published form fields and official pre-race analysis. One source-supported observation per runner where distinct runner-specific evidence was available; otherwise RESEARCHED_NO_EVIDENCE. Form observations are descriptive and do not recalculate model probabilities or EV.",
+  "observations": [
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971910",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Bosun",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.55,
+      "confidence": 0.62,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/belmont-park/2026-09-26/race-fields",
+      "note": "Published recent form x2111 shows three consecutive wins entering this race."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971910",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "I Love Ya Money",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.25,
+      "confidence": 0.48,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/belmont-park/2026-09-26/race-fields",
+      "note": "Published recent form 31325 includes a win and two placings before the latest fifth."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971910",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Swift Talker",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.3,
+      "confidence": 0.52,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/belmont-park/2026-09-26/race-fields",
+      "note": "Published recent form x72x2 shows a second placing on return."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971910",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Kelvinater",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.28,
+      "confidence": 0.46,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/belmont-park/2026-09-26/race-fields",
+      "note": "Published recent form 16820 ends with an unplaced run after a second."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971910",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Our Rocky Bay",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.25,
+      "confidence": 0.44,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/belmont-park/2026-09-26/race-fields",
+      "note": "Published recent form 53530 ends with an unplaced run after two recent thirds."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971910",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Jazalot",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.12,
+      "confidence": 0.4,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/belmont-park/2026-09-26/race-fields",
+      "note": "Published recent form 71226 contains two runner-up finishes, although the latest was sixth."
+    },
+    {
+      "target_date": "2026-09-26",
+      "event_id": "10971910",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Get Out Mick",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.18,
+      "confidence": 0.42,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/belmont-park/2026-09-26/race-fields",
+      "note": "Published recent form 32627 contains two placings but ends with seventh."
+    },
+    {
+      "target_date": "2026-09-27",
+      "event_id": "10971607",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Ghana's Akan",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.42,
+      "confidence": 0.58,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/caulfield/2026-09-27/race-fields",
+      "note": "Published recent form 5x422 shows consecutive runner-up finishes."
+    },
+    {
+      "target_date": "2026-09-27",
+      "event_id": "10971607",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Chayan",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.16,
+      "confidence": 0.42,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/caulfield/2026-09-27/race-fields",
+      "note": "Published recent form 718x8 shows an eighth on return; the prior preparation included a win."
+    },
+    {
+      "target_date": "2026-09-27",
+      "event_id": "10971607",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Scintillation",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.4,
+      "confidence": 0.57,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/caulfield/2026-09-27/race-fields",
+      "note": "Published recent form 3x123 shows a win followed by second and third this preparation."
+    },
+    {
+      "target_date": "2026-09-27",
+      "event_id": "10971607",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Lucky Brook",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.2,
+      "confidence": 0.43,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/caulfield/2026-09-27/race-fields",
+      "note": "Published recent form 1x8 shows an eighth on return after a debut win."
+    },
+    {
+      "target_date": "2026-09-27",
+      "event_id": "10971607",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Sunbliss",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.34,
+      "confidence": 0.53,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/caulfield/2026-09-27/race-fields",
+      "note": "Published recent form 1x2 shows a second placing on return after a win."
+    },
+    {
+      "target_date": "2026-09-27",
+      "event_id": "10971607",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "I Am Aria",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.12,
+      "confidence": 0.4,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/caulfield/2026-09-27/race-fields",
+      "note": "Published recent form 30x17 includes a win this preparation followed by seventh."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Magic Drum",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.25,
+      "confidence": 0.45,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form 45167 shows a win followed by sixth and seventh."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Burton Street",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.22,
+      "confidence": 0.42,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form x88x5 shows a fifth on return after two eighths."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Ranakye",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.25,
+      "confidence": 0.5,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form 06914 includes a win two starts back and fourth latest."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Russian Front",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.2,
+      "confidence": 0.46,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form 24554 shows a second and repeated top-five finishes."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Legacy Bel",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.18,
+      "confidence": 0.42,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form 15854 shows fifth and fourth in the last two runs after an earlier win."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Golden Pulse",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.25,
+      "confidence": 0.42,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form 18x9 shows ninth on return after an eighth."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Lulu Darling",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.18,
+      "confidence": 0.42,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form 05527 shows a runner-up finish followed by seventh."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Imminance",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": -0.2,
+      "confidence": 0.43,
+      "source": "Racing and Sports",
+      "source_type": "form_guide",
+      "source_quality": "objective_data",
+      "source_ref": "https://www.racingandsports.com.au/form-guide/thoroughbred/australia/moe/2026-09-24/race-fields",
+      "note": "Published recent form 36774 includes two sevenths before improving to fourth."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Kingsland",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.45,
+      "confidence": 0.56,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/5",
+      "note": "Official pre-race analysis records two placings from three runs this preparation, including a last-start placing at Toowoomba."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "So You Can Torque",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.4,
+      "confidence": 0.52,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/5",
+      "note": "Official pre-race analysis records a last-start win at Warwick."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Standlee",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.25,
+      "confidence": 0.47,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/5",
+      "note": "Official pre-race analysis records a Beaudesert win and three placings this preparation, tempered by a latest tenth at Warwick."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Hang Out",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.22,
+      "confidence": 0.45,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/5",
+      "note": "Official pre-race analysis records a win two starts back at Gold Coast Poly."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Wolfgang",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.5,
+      "confidence": 0.6,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/6",
+      "note": "Official pre-race analysis records three wins from seven starts this campaign and a close latest finish at Rockhampton."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Miss De Medici",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.3,
+      "confidence": 0.49,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/6",
+      "note": "Official pre-race analysis records a Toowoomba win two starts back and a return to non-metro class."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Craiglea Merida",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.36,
+      "confidence": 0.51,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/6",
+      "note": "Official pre-race analysis records three wins from eleven starts this campaign and a last-start placing at Thangool."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Rothgo",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.28,
+      "confidence": 0.48,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/6",
+      "note": "Official pre-race analysis records a Warwick win and two placings this preparation."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Copper Star",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.4,
+      "confidence": 0.54,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/7",
+      "note": "Official pre-race analysis records four placings from six runs this preparation and a close latest finish at Sunshine Coast."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "I'm Lucky Two",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.28,
+      "confidence": 0.47,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/7",
+      "note": "Official pre-race analysis records two placings from three runs this preparation; it also notes a wide draw."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Territory Ash",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.16,
+      "confidence": 0.4,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/7",
+      "note": "Official pre-race analysis records fifth at Toowoomba last start, with fitter prospects noted."
+    },
+    {
+      "target_date": "2026-09-24",
+      "event_id": null,
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Perfect Beth (Em5)",
+      "bet": "BOTH",
+      "evidence_type": "FORM_CLASS",
+      "direction": 0.25,
+      "confidence": 0.45,
+      "source": "Racing Queensland",
+      "source_type": "official_form",
+      "source_quality": "analysis_editorial",
+      "source_ref": "https://www.racingqueensland.com.au/racing/full-calendar/thoroughbred/meeting/warw/20260924/race/7",
+      "note": "Official pre-race analysis records a first-up placing at Grafton."
+    }
+  ],
+  "research_completion": [
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Kelvinater",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "I Love Ya Money",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Bosun",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Swift Talker",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Our Rocky Bay",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Jazalot",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Triple The Chant",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Village Girl",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "I'm Nipote",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Right To Silence",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Get Out Mick",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Belmont",
+      "race_number": 6,
+      "runner": "Mavis Myrtle",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Lucky Brook",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Scintillation",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Over The Bridge",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Ghana's Akan",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "I Am Aria",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Mull Of Kintyre",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Calamari Ring",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Chayan",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Jadzia",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Lady Catalina",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Sunbliss",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Torture",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-27",
+      "venue": "Caulfield",
+      "race_number": 4,
+      "runner": "Simply Steffi",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Imminance",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Magic Drum",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Burton Street",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Chambers Bay",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Dazzling Secret",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Diamond Indaruf",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Eyes Wide Shut",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Golden Pulse",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Legacy Bel",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Lulu Darling",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Ranakye",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Russian Benefits",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Russian Front",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Three Point Turn",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Three Point Turn (Em1)",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Moe",
+      "race_number": 8,
+      "runner": "Sophast",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Drialle",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Kneze",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Express Star",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Hang Out",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Kingsland",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Proponent",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "So You Can Torque",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Standlee",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 5,
+      "runner": "Heavenly Love",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Miss De Medici",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Brechen",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Craiglea Merida",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Galway Hussler",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Heroic Chief",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "North Court",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Rothgo",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Sir Maurice",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 6,
+      "runner": "Wolfgang",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Thunderous",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Abated Breath (Em1)",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Copper Star",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Decrypt",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "I'm Lucky Two",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "King Of Geraldine",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Little Vain",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Odin's Mount",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Perfect Beth (Em5)",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Salchow (Em2)",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Territory Ash",
+      "status": "EVIDENCE_FOUND"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "The Answer Man (Em4)",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Warwick",
+      "race_number": 7,
+      "runner": "Vesper Lynd",
+      "status": "RESEARCHED_NO_EVIDENCE"
+    }
+  ]
+}
