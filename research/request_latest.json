@@ -1,8 +1,8 @@
 {
   "schema": "value_hunter_unified_research_packet_v1_1",
-  "packet_id": "cf9e5599f48f",
-  "created_utc": "2026-09-27T02:46:06.517141+00:00",
-  "source_queue_generated_utc": "2026-09-27T02:46:05.668172+00:00",
+  "packet_id": "2cb3bf5114f7",
+  "created_utc": "2026-09-27T03:00:01.866012+00:00",
+  "source_queue_generated_utc": "2026-09-27T03:00:01.119934+00:00",
   "instructions": {
     "scope": "Research every runner in every selected race; do not research only P1/P2 runners.",
     "priority": "Priority controls processing order only.",
@@ -25,7 +25,6 @@
         "SPORTSBET_SCHEDULE",
         "SPORTSBET_RACECARD",
         "PUNTERSEDGE",
-        "SPORTSBET_CURRENT_FULL_FIELD",
         "SPORTSBET_CURRENT_ABILITY"
       ],
       "race_key": "SB:10974806",
@@ -37,13 +36,13 @@
           "priority_tier": 1,
           "candidate_at_baseline": true,
           "baseline": {
-            "win_price": 31.0,
-            "place_price": 6.0,
-            "model_win_prob": 0.02784228402556649,
-            "model_place_prob": 0.17789111234464805,
-            "win_ev": -0.13688919520743892,
-            "place_ev": 0.0673466740678883,
-            "best_ev": 0.0673466740678883
+            "win_price": 26.0,
+            "place_price": 5.5,
+            "model_win_prob": 0.03145747188305922,
+            "model_place_prob": 0.19297772216300307,
+            "win_ev": -0.18210573104046035,
+            "place_ev": 0.06137747189651699,
+            "best_ev": 0.06137747189651699
           },
           "ability_context": {
             "barrier": 20,
@@ -72,13 +71,13 @@
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 23.0,
-            "place_price": 5.0,
-            "model_win_prob": 0.034998055006249466,
-            "model_place_prob": 0.20469860882849872,
-            "win_ev": -0.19504473485626228,
-            "place_ev": 0.023493044142493646,
-            "best_ev": 0.023493044142493646
+            "win_price": 21.0,
+            "place_price": 4.2,
+            "model_win_prob": 0.03655569684556242,
+            "model_place_prob": 0.2431850658649962,
+            "win_ev": -0.23233036624318926,
+            "place_ev": 0.021377276632984055,
+            "best_ev": 0.021377276632984055
           },
           "ability_context": {
             "barrier": 5,
@@ -101,19 +100,19 @@
           "evidence_observations_added": 0
         },
         {
-          "runner": "Where'Stheprofit",
+          "runner": "Where'stheprofit",
           "runner_number": 7,
           "sportsbet_outcome_id": 1259081649,
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 2.25,
+            "win_price": 2.1,
             "place_price": 1.3,
-            "model_win_prob": 0.3723337765634887,
-            "model_place_prob": 0.7837826567696144,
-            "win_ev": -0.16224900273215037,
-            "place_ev": 0.018917453800498807,
-            "best_ev": 0.018917453800498807
+            "model_win_prob": 0.37870101875882184,
+            "model_place_prob": 0.7829194111150592,
+            "win_ev": -0.20472786060647408,
+            "place_ev": 0.01779523444957709,
+            "best_ev": 0.01779523444957709
           },
           "ability_context": {
             "barrier": 1,
@@ -143,12 +142,12 @@
           "candidate_at_baseline": false,
           "baseline": {
             "win_price": 4.2,
-            "place_price": 1.75,
-            "model_win_prob": 0.19264775337830267,
-            "model_place_prob": 0.5808335573366447,
-            "win_ev": -0.19087943581112876,
-            "place_ev": 0.016458725339128177,
-            "best_ev": 0.016458725339128177
+            "place_price": 1.53,
+            "model_win_prob": 0.18387347945520338,
+            "model_place_prob": 0.6619260451556013,
+            "win_ev": -0.22773138628814582,
+            "place_ev": 0.01274684908807,
+            "best_ev": 0.01274684908807
           },
           "ability_context": {
             "barrier": 10,
@@ -177,13 +176,13 @@
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 7.0,
-            "place_price": 2.45,
-            "model_win_prob": 0.11343826028450622,
-            "model_place_prob": 0.4130982469965704,
-            "win_ev": -0.20593217800845642,
-            "place_ev": 0.012090705141597491,
-            "best_ev": 0.012090705141597491
+            "win_price": 6.5,
+            "place_price": 1.91,
+            "model_win_prob": 0.11669077002046563,
+            "model_place_prob": 0.52861872361743,
+            "win_ev": -0.24150999486697344,
+            "place_ev": 0.009661762109291372,
+            "best_ev": 0.009661762109291372
           },
           "ability_context": {
             "barrier": 13,
@@ -212,13 +211,13 @@
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 29.0,
-            "place_price": 5.5,
-            "model_win_prob": 0.02710164931679621,
-            "model_place_prob": 0.18343950947396953,
-            "win_ev": -0.21405216981290998,
-            "place_ev": 0.008917302106832503,
-            "best_ev": 0.008917302106832503
+            "win_price": 26.0,
+            "place_price": 5.0,
+            "model_win_prob": 0.02884028706602379,
+            "model_place_prob": 0.2015954594096966,
+            "win_ev": -0.2501525362833814,
+            "place_ev": 0.007977297048483045,
+            "best_ev": 0.007977297048483045
           },
           "ability_context": {
             "barrier": 15,
@@ -247,13 +246,13 @@
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 10.0,
-            "place_price": 2.9,
-            "model_win_prob": 0.07802999433005171,
-            "model_place_prob": 0.3460911322049277,
-            "win_ev": -0.2197000566994829,
-            "place_ev": 0.0036642833942903685,
-            "best_ev": 0.0036642833942903685
+            "win_price": 9.0,
+            "place_price": 2.38,
+            "model_win_prob": 0.08283019286323283,
+            "model_place_prob": 0.4215647865600576,
+            "win_ev": -0.2545282642309046,
+            "place_ev": 0.0033241920129369884,
+            "best_ev": 0.0033241920129369884
           },
           "ability_context": {
             "barrier": 14,
@@ -283,50 +282,15 @@
           "candidate_at_baseline": false,
           "baseline": {
             "win_price": 31.0,
-            "place_price": 5.75,
-            "model_win_prob": 0.02479945068369604,
-            "model_place_prob": 0.1730012623219199,
-            "win_ev": -0.23121702880542272,
-            "place_ev": -0.005242741648960547,
-            "best_ev": -0.005242741648960547
+            "place_price": 6.0,
+            "model_win_prob": 0.023723542157339426,
+            "model_place_prob": 0.16594530147158915,
+            "win_ev": -0.26457019312247776,
+            "place_ev": -0.004328191170465123,
+            "best_ev": -0.004328191170465123
           },
           "ability_context": {
             "barrier": 9,
-            "jockey": "Zoe Hunt",
-            "trainer": "C Lundholm",
-            "weight": "54.0kg",
-            "expected_settling_position": "Midfield",
-            "speed": 43,
-            "sb_rating": "84"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974806|SB:1259081664",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Keadool (Em2)",
-          "runner_number": 16,
-          "sportsbet_outcome_id": 1259081664,
-          "priority_tier": 4,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 34.0,
-            "place_price": 6.25,
-            "model_win_prob": 0.02261084562872304,
-            "model_place_prob": 0.15914734722801752,
-            "win_ev": -0.2312312486234166,
-            "place_ev": -0.005329079824890504,
-            "best_ev": -0.005329079824890504
-          },
-          "ability_context": {
-            "barrier": null,
             "jockey": "Zoe Hunt",
             "trainer": "C Lundholm",
             "weight": "54.0kg",
@@ -352,13 +316,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 26.0,
-            "place_price": 5.0,
-            "model_win_prob": 0.029526779143585268,
-            "model_place_prob": 0.19879907495091748,
-            "win_ev": -0.23230374226678308,
-            "place_ev": -0.006004625245412676,
-            "best_ev": -0.006004625245412676
+            "win_price": 23.0,
+            "place_price": 4.75,
+            "model_win_prob": 0.03189928387741471,
+            "model_place_prob": 0.20934045171267399,
+            "win_ev": -0.26631647081946164,
+            "place_ev": -0.005632854364798545,
+            "best_ev": -0.005632854364798545
           },
           "ability_context": {
             "barrier": 19,
@@ -387,13 +351,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 29.0,
+            "win_price": 27.0,
             "place_price": 5.5,
-            "model_win_prob": 0.02616807154672103,
-            "model_place_prob": 0.1793375175428993,
-            "win_ev": -0.24112592514509013,
-            "place_ev": -0.013643653514053833,
-            "best_ev": -0.013643653514053833
+            "model_win_prob": 0.02684029950084916,
+            "model_place_prob": 0.17930176046020713,
+            "win_ev": -0.27531191347707273,
+            "place_ev": -0.01384031746886083,
+            "best_ev": -0.01384031746886083
           },
           "ability_context": {
             "barrier": 18,
@@ -422,13 +386,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 61.0,
-            "place_price": 11.0,
-            "model_win_prob": 0.01227188895212634,
-            "model_place_prob": 0.08867435010867991,
-            "win_ev": -0.2514147739202933,
-            "place_ev": -0.02458214880452103,
-            "best_ev": -0.02458214880452103
+            "win_price": 51.0,
+            "place_price": 9.5,
+            "model_win_prob": 0.01404464388844202,
+            "model_place_prob": 0.10283376081277622,
+            "win_ev": -0.283723161689457,
+            "place_ev": -0.02307927227862594,
+            "best_ev": -0.02307927227862594
           },
           "ability_context": {
             "barrier": 7,
@@ -457,13 +421,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 51.0,
+            "win_price": 41.0,
             "place_price": 8.0,
-            "model_win_prob": 0.014570720498368142,
-            "model_place_prob": 0.12138389788476513,
-            "win_ev": -0.25689325458322476,
-            "place_ev": -0.028928816921878986,
-            "best_ev": -0.028928816921878986
+            "model_win_prob": 0.01738356726000151,
+            "model_place_prob": 0.12173020585428926,
+            "win_ev": -0.2872737423399381,
+            "place_ev": -0.026158353165685932,
+            "best_ev": -0.026158353165685932
           },
           "ability_context": {
             "barrier": 3,
@@ -492,13 +456,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 61.0,
+            "win_price": 51.0,
             "place_price": 9.5,
-            "model_win_prob": 0.011897899325923604,
-            "model_place_prob": 0.1003843249323735,
-            "win_ev": -0.2742281411186601,
-            "place_ev": -0.04634891314245182,
-            "best_ev": -0.04634891314245182
+            "model_win_prob": 0.01366505065292607,
+            "model_place_prob": 0.10077575472675483,
+            "win_ev": -0.3030824167007704,
+            "place_ev": -0.04263033009582906,
+            "best_ev": -0.04263033009582906
           },
           "ability_context": {
             "barrier": 2,
@@ -527,13 +491,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 61.0,
-            "place_price": 11.0,
-            "model_win_prob": 0.011762571315895042,
-            "model_place_prob": 0.08587791819022492,
-            "win_ev": -0.28248314973040245,
-            "place_ev": -0.055342899907525944,
-            "best_ev": -0.055342899907525944
+            "win_price": 51.0,
+            "place_price": 10.0,
+            "model_win_prob": 0.013494695770657919,
+            "model_place_prob": 0.09480363090245578,
+            "win_ev": -0.3117705156964461,
+            "place_ev": -0.05196369097544218,
+            "best_ev": -0.05196369097544218
           },
           "ability_context": {
             "barrier": 17,
@@ -2179,13 +2143,13 @@
           "priority_tier": 2,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 17.0,
-            "place_price": 3.8,
-            "model_win_prob": 0.056839105121402306,
-            "model_place_prob": 0.27483359139241864,
-            "win_ev": -0.033735212936160774,
-            "place_ev": 0.04436764729119069,
-            "best_ev": 0.04436764729119069
+            "win_price": 14.0,
+            "place_price": 3.3,
+            "model_win_prob": 0.0638269397117709,
+            "model_place_prob": 0.3156215583512611,
+            "win_ev": -0.1064228440352073,
+            "place_ev": 0.04155114255916148,
+            "best_ev": 0.04155114255916148
           },
           "ability_context": {
             "barrier": 8,
@@ -2214,13 +2178,13 @@
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 10.0,
-            "place_price": 2.7,
-            "model_win_prob": 0.09338916409054132,
-            "model_place_prob": 0.37872146708232324,
-            "win_ev": -0.06610835909458679,
-            "place_ev": 0.022547961122272753,
-            "best_ev": 0.022547961122272753
+            "win_price": 9.0,
+            "place_price": 2.5,
+            "model_win_prob": 0.09601342711669575,
+            "model_place_prob": 0.4085569206485468,
+            "win_ev": -0.13587915594973832,
+            "place_ev": 0.02139230162136707,
+            "best_ev": 0.02139230162136707
           },
           "ability_context": {
             "barrier": 5,
@@ -2249,13 +2213,13 @@
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 6.0,
-            "place_price": 2.1,
-            "model_win_prob": 0.15588074540972938,
-            "model_place_prob": 0.4859788943307762,
-            "win_ev": -0.0647155275416238,
-            "place_ev": 0.020555678094630103,
-            "best_ev": 0.020555678094630103
+            "win_price": 5.0,
+            "place_price": 1.8,
+            "model_win_prob": 0.17292457530671848,
+            "model_place_prob": 0.5651209697406314,
+            "win_ev": -0.13537712346640762,
+            "place_ev": 0.017217745533136597,
+            "best_ev": 0.017217745533136597
           },
           "ability_context": {
             "barrier": 7,
@@ -2284,13 +2248,13 @@
           "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 41.0,
-            "place_price": 6.25,
-            "model_win_prob": 0.022133101920141528,
-            "model_place_prob": 0.16163852420349217,
-            "win_ev": -0.09254282127419733,
-            "place_ev": 0.01024077627182618,
-            "best_ev": 0.01024077627182618
+            "win_price": 31.0,
+            "place_price": 5.5,
+            "model_win_prob": 0.027087675072671603,
+            "model_place_prob": 0.18362977075998943,
+            "win_ev": -0.16028207274718032,
+            "place_ev": 0.009963739179941866,
+            "best_ev": 0.009963739179941866
           },
           "ability_context": {
             "barrier": 10,
@@ -2313,41 +2277,6 @@
           "evidence_observations_added": 0
         },
         {
-          "runner": "Barghest",
-          "runner_number": 6,
-          "sportsbet_outcome_id": 1258594653,
-          "priority_tier": 3,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 9.5,
-            "place_price": 2.6,
-            "model_win_prob": 0.09547564688903509,
-            "model_place_prob": 0.38761459791779423,
-            "win_ev": -0.09298135455416667,
-            "place_ev": 0.007797954586264977,
-            "best_ev": 0.007797954586264977
-          },
-          "ability_context": {
-            "barrier": 14,
-            "jockey": "Jamie Melham",
-            "trainer": "G Richards & D Moyle",
-            "weight": "56.0kg",
-            "expected_settling_position": "Off Midfield",
-            "speed": 29,
-            "sb_rating": "89"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10971605|SB:1258594653",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
           "runner": "Come Together",
           "runner_number": 14,
           "sportsbet_outcome_id": 1258594672,
@@ -2356,9 +2285,9 @@
           "baseline": {
             "win_price": 26.0,
             "place_price": 5.0,
-            "model_win_prob": 0.03478231943362047,
+            "model_win_prob": 0.03218972666992398,
             "model_place_prob": 0.20154518423102613,
-            "win_ev": -0.09565969472586777,
+            "win_ev": -0.16306710658197654,
             "place_ev": 0.0077259211551305995,
             "best_ev": 0.0077259211551305995
           },
@@ -2383,6 +2312,41 @@
           "evidence_observations_added": 0
         },
         {
+          "runner": "Barghest",
+          "runner_number": 6,
+          "sportsbet_outcome_id": 1258594653,
+          "priority_tier": 3,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 8.5,
+            "place_price": 2.4,
+            "model_win_prob": 0.09874499025817007,
+            "model_place_prob": 0.4197413847298569,
+            "win_ev": -0.16066758280555438,
+            "place_ev": 0.007379323351656586,
+            "best_ev": 0.007379323351656586
+          },
+          "ability_context": {
+            "barrier": 14,
+            "jockey": "Jamie Melham",
+            "trainer": "G Richards & D Moyle",
+            "weight": "56.0kg",
+            "expected_settling_position": "Off Midfield",
+            "speed": 29,
+            "sb_rating": "89"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10971605|SB:1258594653",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
           "runner": "Tales Of Time",
           "runner_number": 5,
           "sportsbet_outcome_id": 1258594650,
@@ -2390,12 +2354,12 @@
           "candidate_at_baseline": false,
           "baseline": {
             "win_price": 2.25,
-            "place_price": 1.26,
-            "model_win_prob": 0.3933076797292631,
-            "model_place_prob": 0.7916660870101353,
-            "win_ev": -0.11505772060915798,
-            "place_ev": -0.002500730367229531,
-            "best_ev": -0.002500730367229531
+            "place_price": 1.3,
+            "model_win_prob": 0.3638177294904084,
+            "model_place_prob": 0.7670821304215361,
+            "win_ev": -0.18141010864658103,
+            "place_ev": -0.0027932304520030815,
+            "best_ev": -0.0027932304520030815
           },
           "ability_context": {
             "barrier": 4,
@@ -2426,9 +2390,9 @@
           "baseline": {
             "win_price": 17.0,
             "place_price": 3.7,
-            "model_win_prob": 0.052246538984905465,
+            "model_win_prob": 0.048349453722875774,
             "model_place_prob": 0.26936120999647617,
-            "win_ev": -0.11180883725660706,
+            "win_ev": -0.17805928671111182,
             "place_ev": -0.0033635230130381055,
             "best_ev": -0.0033635230130381055
           },
@@ -2459,13 +2423,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 13.0,
-            "place_price": 3.3,
-            "model_win_prob": 0.06718583201393419,
-            "model_place_prob": 0.2990744188123864,
-            "win_ev": -0.1265841838188555,
-            "place_ev": -0.013054417919124983,
-            "best_ev": -0.013054417919124983
+            "win_price": 12.0,
+            "place_price": 3.0,
+            "model_win_prob": 0.0673575726924178,
+            "model_place_prob": 0.329161188322055,
+            "win_ev": -0.19170912769098647,
+            "place_ev": -0.012516435033835038,
+            "best_ev": -0.012516435033835038
           },
           "ability_context": {
             "barrier": 2,
@@ -2494,13 +2458,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 29.0,
-            "place_price": 5.25,
-            "model_win_prob": 0.02875986640742718,
-            "model_place_prob": 0.18183213885666824,
-            "win_ev": -0.16596387418461178,
-            "place_ev": -0.045381271002491785,
-            "best_ev": -0.045381271002491785
+            "win_price": 26.0,
+            "place_price": 5.0,
+            "model_win_prob": 0.029687909958347324,
+            "model_place_prob": 0.1910105275309641,
+            "win_ev": -0.22811434108296957,
+            "place_ev": -0.04494736234517949,
+            "best_ev": -0.04494736234517949
           },
           "ability_context": {
             "barrier": 11,
@@ -2529,10 +2493,10 @@
       "date": "2026-09-27",
       "horizon": "D",
       "venue": "Dubbo",
-      "race_number": 3,
-      "sportsbet_event_id": "10974805",
-      "race_name": "Tommy Toyota Memorial Showcase Maiden",
-      "distance_m": 1400,
+      "race_number": 4,
+      "sportsbet_event_id": "10974804",
+      "race_name": "Castlereagh Hotel Showcase Maiden Plate",
+      "distance_m": 1000,
       "lifecycle": "PRICED",
       "modelled": true,
       "sources_seen": [
@@ -2541,171 +2505,31 @@
         "PUNTERSEDGE",
         "SPORTSBET_CURRENT_ABILITY"
       ],
-      "race_key": "SB:10974805",
+      "race_key": "SB:10974804",
       "runners": [
         {
-          "runner": "What A Gent",
-          "runner_number": 12,
-          "sportsbet_outcome_id": 1259081701,
+          "runner": "Best Defence",
+          "runner_number": 1,
+          "sportsbet_outcome_id": 1259081448,
           "priority_tier": 2,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 4.2,
-            "place_price": 1.8,
-            "model_win_prob": 0.21199604803601163,
-            "model_place_prob": 0.5779622640583852,
-            "win_ev": -0.10961659824875114,
-            "place_ev": 0.04033207530509353,
-            "best_ev": 0.04033207530509353
-          },
-          "ability_context": {
-            "barrier": 7,
-            "jockey": "Jean Van Overmeire",
-            "trainer": "T J Bartley",
-            "weight": "56.5kg",
-            "expected_settling_position": "Leader",
-            "speed": 100,
-            "sb_rating": "100"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081701",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Duskaura",
-          "runner_number": 4,
-          "sportsbet_outcome_id": 1259081657,
-          "priority_tier": 3,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 3.9,
-            "place_price": 1.7,
-            "model_win_prob": 0.2114025486313635,
-            "model_place_prob": 0.5953360017229031,
-            "win_ev": -0.17553006033768237,
-            "place_ev": 0.012071202928935376,
-            "best_ev": 0.012071202928935376
-          },
-          "ability_context": {
-            "barrier": 10,
-            "jockey": "Reece Jones",
-            "trainer": "Lyle Chandler",
-            "weight": "57.0kg",
-            "expected_settling_position": "Leader",
-            "speed": 87,
-            "sb_rating": "90"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081657",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Nortoko",
-          "runner_number": 9,
-          "sportsbet_outcome_id": 1259081690,
-          "priority_tier": 3,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 51.0,
-            "place_price": 10.0,
-            "model_win_prob": 0.01570906755994851,
-            "model_place_prob": 0.10021316998709884,
-            "win_ev": -0.19883755444262596,
-            "place_ev": 0.0021316998709883794,
-            "best_ev": 0.0021316998709883794
-          },
-          "ability_context": {
-            "barrier": 2,
-            "jockey": "Anna Weatherlake",
-            "trainer": "Bill Hayes",
-            "weight": "56.5kg",
-            "expected_settling_position": "Pace",
-            "speed": 75,
-            "sb_rating": "90"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081690",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Forwarding",
-          "runner_number": 6,
-          "sportsbet_outcome_id": 1259081676,
-          "priority_tier": 3,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 14.0,
-            "place_price": 3.8,
-            "model_win_prob": 0.05723113684429264,
-            "model_place_prob": 0.26365154162742893,
-            "win_ev": -0.1987640841799031,
-            "place_ev": 0.0018758581842299726,
-            "best_ev": 0.0018758581842299726
-          },
-          "ability_context": {
-            "barrier": 8,
-            "jockey": "Diego Montes De Oca",
-            "trainer": "G D Lunn",
-            "weight": "56.5kg",
-            "expected_settling_position": "Backmarker",
-            "speed": 13,
-            "sb_rating": "94"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081676",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Kojak",
-          "runner_number": 1,
-          "sportsbet_outcome_id": 1259081635,
-          "priority_tier": 4,
-          "candidate_at_baseline": false,
-          "baseline": {
             "win_price": 12.0,
-            "place_price": 3.4,
-            "model_win_prob": 0.06653647335842898,
-            "model_place_prob": 0.29405900746882235,
-            "win_ev": -0.2015623196988523,
-            "place_ev": -0.00019937460600405466,
-            "best_ev": -0.00019937460600405466
+            "place_price": 2.8,
+            "model_win_prob": 0.06978617817164415,
+            "model_place_prob": 0.37322887021925005,
+            "win_ev": -0.16256586194027023,
+            "place_ev": 0.045040836613900126,
+            "best_ev": 0.045040836613900126
           },
           "ability_context": {
             "barrier": 9,
-            "jockey": "Nick Heywood",
-            "trainer": "Todd Smith",
+            "jockey": "Zoe Hunt",
+            "trainer": "C Lundholm",
             "weight": "59.0kg",
-            "expected_settling_position": "Off Pace",
-            "speed": 65,
-            "sb_rating": "89"
+            "expected_settling_position": "Leader",
+            "speed": 100,
+            "sb_rating": "98"
           },
           "research": {
             "status": "PENDING",
@@ -2713,33 +2537,33 @@
             "evidence_observations_added": 0,
             "allow_no_evidence_status": true
           },
-          "runner_key": "SB:10974805|SB:1259081635",
+          "runner_key": "SB:10974804|SB:1259081448",
           "research_status": "PENDING",
           "last_researched_utc": null,
           "evidence_observations_added": 0
         },
         {
-          "runner": "Miss Maverick",
-          "runner_number": 8,
-          "sportsbet_outcome_id": 1259081686,
-          "priority_tier": 4,
+          "runner": "Street Empress",
+          "runner_number": 6,
+          "sportsbet_outcome_id": 1259081465,
+          "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 4.2,
-            "place_price": 1.8,
-            "model_win_prob": 0.18952587152274855,
-            "model_place_prob": 0.5547599749025011,
-            "win_ev": -0.20399133960445603,
-            "place_ev": -0.001432045175498109,
-            "best_ev": -0.001432045175498109
+            "win_price": 18.0,
+            "place_price": 4.0,
+            "model_win_prob": 0.0447743485737317,
+            "model_place_prob": 0.2579231602211909,
+            "win_ev": -0.19406172567282942,
+            "place_ev": 0.031692640884763534,
+            "best_ev": 0.031692640884763534
           },
           "ability_context": {
-            "barrier": 4,
-            "jockey": "Donovan Dillon",
-            "trainer": "Connie Greig",
-            "weight": "56.5kg",
-            "expected_settling_position": "Backmarker",
-            "speed": 6,
+            "barrier": 6,
+            "jockey": "Gabrielle Johnston",
+            "trainer": "Joel Wilkes",
+            "weight": "57.0kg",
+            "expected_settling_position": "Pace",
+            "speed": 83,
             "sb_rating": "93"
           },
           "research": {
@@ -2748,173 +2572,138 @@
             "evidence_observations_added": 0,
             "allow_no_evidence_status": true
           },
-          "runner_key": "SB:10974805|SB:1259081686",
+          "runner_key": "SB:10974804|SB:1259081465",
           "research_status": "PENDING",
           "last_researched_utc": null,
           "evidence_observations_added": 0
         },
         {
-          "runner": "Grey Belief",
-          "runner_number": 7,
-          "sportsbet_outcome_id": 1259081679,
-          "priority_tier": 4,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 16.0,
-            "place_price": 4.0,
-            "model_win_prob": 0.049589789038497076,
-            "model_place_prob": 0.24899791013071454,
-            "win_ev": -0.2065633753840468,
-            "place_ev": -0.004008359477141843,
-            "best_ev": -0.004008359477141843
-          },
-          "ability_context": {
-            "barrier": 12,
-            "jockey": "Mikayla Weir",
-            "trainer": "Connie Greig",
-            "weight": "56.5kg",
-            "expected_settling_position": "Off Pace",
-            "speed": 62,
-            "sb_rating": "90"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081679",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Finance Work",
+          "runner": "Mi Piace",
           "runner_number": 2,
-          "sportsbet_outcome_id": 1259081640,
-          "priority_tier": 4,
+          "sportsbet_outcome_id": 1259081452,
+          "priority_tier": 3,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 23.0,
-            "place_price": 5.5,
-            "model_win_prob": 0.03426502251083856,
-            "model_place_prob": 0.18023563875521867,
-            "win_ev": -0.21190448225071312,
-            "place_ev": -0.008703986846297362,
-            "best_ev": -0.008703986846297362
-          },
-          "ability_context": {
-            "barrier": 11,
-            "jockey": "Kody Nestor",
-            "trainer": "Peter Reynolds",
-            "weight": "57.5kg",
-            "expected_settling_position": "Off Pace",
-            "speed": 53,
-            "sb_rating": "90"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081640",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Woollen",
-          "runner_number": 3,
-          "sportsbet_outcome_id": 1259081645,
-          "priority_tier": 4,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 15.0,
-            "place_price": 3.75,
-            "model_win_prob": 0.05228273269288931,
-            "model_place_prob": 0.2637485122590484,
-            "win_ev": -0.2157590096066604,
-            "place_ev": -0.010943079028568503,
-            "best_ev": -0.010943079028568503
-          },
-          "ability_context": {
-            "barrier": 6,
-            "jockey": "Jacob Stiff",
-            "trainer": "G D Lunn",
-            "weight": "57.5kg",
-            "expected_settling_position": "Pace",
-            "speed": 80,
-            "sb_rating": "87"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081645",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Ridgeback",
-          "runner_number": 10,
-          "sportsbet_outcome_id": 1259081693,
-          "priority_tier": 4,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 34.0,
-            "place_price": 7.5,
-            "model_win_prob": 0.02305662608399512,
-            "model_place_prob": 0.13163637650001014,
-            "win_ev": -0.21607471314416593,
-            "place_ev": -0.012727176249923922,
-            "best_ev": -0.012727176249923922
-          },
-          "ability_context": {
-            "barrier": 1,
-            "jockey": "Gabrielle Johnston",
-            "trainer": "Ms J Clement",
-            "weight": "56.5kg",
-            "expected_settling_position": "Leader",
-            "speed": 98,
-            "sb_rating": "87"
-          },
-          "research": {
-            "status": "PENDING",
-            "searched_utc": null,
-            "evidence_observations_added": 0,
-            "allow_no_evidence_status": true
-          },
-          "runner_key": "SB:10974805|SB:1259081693",
-          "research_status": "PENDING",
-          "last_researched_utc": null,
-          "evidence_observations_added": 0
-        },
-        {
-          "runner": "Carisbrooke Queen",
-          "runner_number": 5,
-          "sportsbet_outcome_id": 1259081666,
-          "priority_tier": 4,
-          "candidate_at_baseline": false,
-          "baseline": {
-            "win_price": 61.0,
-            "place_price": 12.0,
-            "model_win_prob": 0.012785135360367706,
-            "model_place_prob": 0.08191901090070741,
-            "win_ev": -0.22010674301756994,
-            "place_ev": -0.016971869191511058,
-            "best_ev": -0.016971869191511058
+            "win_price": 8.5,
+            "place_price": 2.3,
+            "model_win_prob": 0.0935973234797195,
+            "model_place_prob": 0.44304360248531294,
+            "win_ev": -0.20442275042238434,
+            "place_ev": 0.0190002857162197,
+            "best_ev": 0.0190002857162197
           },
           "ability_context": {
             "barrier": 5,
-            "jockey": "Izzy Neale",
-            "trainer": "Derek Piper",
+            "jockey": "Reece Jones",
+            "trainer": "Angus Stewart",
+            "weight": "57.0kg",
+            "expected_settling_position": "Off Pace",
+            "speed": 57,
+            "sb_rating": "91"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10974804|SB:1259081452",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
+          "runner": "Patrika Express",
+          "runner_number": 3,
+          "sportsbet_outcome_id": 1259081456,
+          "priority_tier": 3,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 2.2,
+            "place_price": 1.2,
+            "model_win_prob": 0.3609394985875936,
+            "model_place_prob": 0.83940519864529,
+            "win_ev": -0.20593310310729396,
+            "place_ev": 0.007286238374347942,
+            "best_ev": 0.007286238374347942
+          },
+          "ability_context": {
+            "barrier": 10,
+            "jockey": "Coriah Keatings",
+            "trainer": "N J Olive",
+            "weight": "57.0kg",
+            "expected_settling_position": "Backmarker",
+            "speed": 0,
+            "sb_rating": "100"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10974804|SB:1259081456",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
+          "runner": "Orchid Boy",
+          "runner_number": 7,
+          "sportsbet_outcome_id": 1259081467,
+          "priority_tier": 3,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 6.0,
+            "place_price": 1.75,
+            "model_win_prob": 0.12875129477512617,
+            "model_place_prob": 0.5740655384442463,
+            "win_ev": -0.2274922313492429,
+            "place_ev": 0.004614692277431054,
+            "best_ev": 0.004614692277431054
+          },
+          "ability_context": {
+            "barrier": 11,
+            "jockey": "Mathew Cahill",
+            "trainer": "Andrew Ryan",
             "weight": "56.5kg",
-            "expected_settling_position": "Pace",
-            "speed": 78,
+            "expected_settling_position": "Backmarker",
+            "speed": 0,
+            "sb_rating": "94"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10974804|SB:1259081467",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
+          "runner": "Half Gage",
+          "runner_number": 11,
+          "sportsbet_outcome_id": 1259081476,
+          "priority_tier": 4,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 3.7,
+            "place_price": 1.4,
+            "model_win_prob": 0.20232498902371598,
+            "model_place_prob": 0.7104230486164401,
+            "win_ev": -0.25139754061225084,
+            "place_ev": -0.005407731936983851,
+            "best_ev": -0.005407731936983851
+          },
+          "ability_context": {
+            "barrier": 7,
+            "jockey": "Anna Weatherlake",
+            "trainer": "R P Northam",
+            "weight": "55.0kg",
+            "expected_settling_position": "Backmarker",
+            "speed": 0,
             "sb_rating": "87"
           },
           "research": {
@@ -2923,34 +2712,34 @@
             "evidence_observations_added": 0,
             "allow_no_evidence_status": true
           },
-          "runner_key": "SB:10974805|SB:1259081666",
+          "runner_key": "SB:10974804|SB:1259081476",
           "research_status": "PENDING",
           "last_researched_utc": null,
           "evidence_observations_added": 0
         },
         {
-          "runner": "Velocette",
-          "runner_number": 11,
-          "sportsbet_outcome_id": 1259081697,
+          "runner": "Divine Blessing",
+          "runner_number": 10,
+          "sportsbet_outcome_id": 1259081474,
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 10.0,
-            "place_price": 3.25,
-            "model_win_prob": 0.07561954836061831,
-            "model_place_prob": 0.29759920416830943,
-            "win_ev": -0.24380451639381695,
-            "place_ev": -0.03280258645299439,
-            "best_ev": -0.03280258645299439
+            "win_price": 12.0,
+            "place_price": 3.0,
+            "model_win_prob": 0.06183381239601925,
+            "model_place_prob": 0.3281805855290124,
+            "win_ev": -0.2579942512477691,
+            "place_ev": -0.015458243412962758,
+            "best_ev": -0.015458243412962758
           },
           "ability_context": {
-            "barrier": 3,
-            "jockey": "Shannen Llewellyn",
-            "trainer": "Allan Kehoe",
-            "weight": "56.5kg",
+            "barrier": 4,
+            "jockey": "Ashley Morgan",
+            "trainer": "Liam Ruddy",
+            "weight": "55.0kg",
             "expected_settling_position": "Backmarker",
             "speed": 0,
-            "sb_rating": "88"
+            "sb_rating": "82"
           },
           "research": {
             "status": "PENDING",
@@ -2958,7 +2747,147 @@
             "evidence_observations_added": 0,
             "allow_no_evidence_status": true
           },
-          "runner_key": "SB:10974805|SB:1259081697",
+          "runner_key": "SB:10974804|SB:1259081474",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
+          "runner": "Willo's Way",
+          "runner_number": 12,
+          "sportsbet_outcome_id": 1259081480,
+          "priority_tier": 4,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 41.0,
+            "place_price": 9.0,
+            "model_win_prob": 0.018132470580293818,
+            "model_place_prob": 0.1091139845794903,
+            "win_ev": -0.25656870620795347,
+            "place_ev": -0.017974138784587312,
+            "best_ev": -0.017974138784587312
+          },
+          "ability_context": {
+            "barrier": 3,
+            "jockey": "Izzy Neale",
+            "trainer": "Brett Robb",
+            "weight": "55.0kg",
+            "expected_settling_position": "Backmarker",
+            "speed": 0,
+            "sb_rating": "87"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10974804|SB:1259081480",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
+          "runner": "Rosie Wryno",
+          "runner_number": 5,
+          "sportsbet_outcome_id": 1259081461,
+          "priority_tier": 4,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 151.0,
+            "place_price": 23.25,
+            "model_win_prob": 0.004913419576997435,
+            "model_place_prob": 0.04212930959040848,
+            "win_ev": -0.2580736438733874,
+            "place_ev": -0.020493552023002737,
+            "best_ev": -0.020493552023002737
+          },
+          "ability_context": {
+            "barrier": 2,
+            "jockey": "Donovan Dillon",
+            "trainer": "Connie Greig",
+            "weight": "57.0kg",
+            "expected_settling_position": "Backmarker",
+            "speed": 0,
+            "sb_rating": "89"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10974804|SB:1259081461",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
+          "runner": "South Eight",
+          "runner_number": 8,
+          "sportsbet_outcome_id": 1259081470,
+          "priority_tier": 4,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 71.0,
+            "place_price": 14.25,
+            "model_win_prob": 0.010183129689506966,
+            "model_place_prob": 0.06744504271296872,
+            "win_ev": -0.2769977920450054,
+            "place_ev": -0.03890814134019571,
+            "best_ev": -0.03890814134019571
+          },
+          "ability_context": {
+            "barrier": 1,
+            "jockey": "Diego Montes De Oca",
+            "trainer": "Brett Robb",
+            "weight": "56.5kg",
+            "expected_settling_position": "Backmarker",
+            "speed": 0,
+            "sb_rating": "82"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10974804|SB:1259081470",
+          "research_status": "PENDING",
+          "last_researched_utc": null,
+          "evidence_observations_added": 0
+        },
+        {
+          "runner": "Waikiki Lad",
+          "runner_number": 9,
+          "sportsbet_outcome_id": 1259081473,
+          "priority_tier": 4,
+          "candidate_at_baseline": false,
+          "baseline": {
+            "win_price": 151.0,
+            "place_price": 22.75,
+            "model_win_prob": 0.004763535145651446,
+            "model_place_prob": 0.04204517872158651,
+            "win_ev": -0.2807061930066317,
+            "place_ev": -0.04347218408390696,
+            "best_ev": -0.04347218408390696
+          },
+          "ability_context": {
+            "barrier": 8,
+            "jockey": "Jake Pracey-Holmes",
+            "trainer": "Brett Thompson",
+            "weight": "56.5kg",
+            "expected_settling_position": "Backmarker",
+            "speed": 0,
+            "sb_rating": "81"
+          },
+          "research": {
+            "status": "PENDING",
+            "searched_utc": null,
+            "evidence_observations_added": 0,
+            "allow_no_evidence_status": true
+          },
+          "runner_key": "SB:10974804|SB:1259081473",
           "research_status": "PENDING",
           "last_researched_utc": null,
           "evidence_observations_added": 0
