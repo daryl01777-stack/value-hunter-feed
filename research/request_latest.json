@@ -1,8 +1,8 @@
 {
   "schema": "value_hunter_unified_research_packet_v1_1",
-  "packet_id": "f420ba15fae0",
-  "created_utc": "2026-09-27T05:57:26.740693+00:00",
-  "source_queue_generated_utc": "2026-09-27T05:57:26.086607+00:00",
+  "packet_id": "d2163ec3a649",
+  "created_utc": "2026-09-27T06:02:14.584470+00:00",
+  "source_queue_generated_utc": "2026-09-27T06:02:13.915236+00:00",
   "instructions": {
     "scope": "Research every runner in every selected race; do not research only P1/P2 runners.",
     "priority": "Priority controls processing order only.",
@@ -1785,13 +1785,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 2.2,
+            "win_price": 2.15,
             "place_price": 1.17,
-            "model_win_prob": 0.40012563643424454,
-            "model_place_prob": 0.7122720788862694,
-            "win_ev": -0.11972359984466197,
-            "place_ev": -0.16664166770306488,
-            "best_ev": -0.11972359984466197
+            "model_win_prob": 0.4083420663258262,
+            "model_place_prob": 0.7155078617541126,
+            "win_ev": -0.12206455739947375,
+            "place_ev": -0.16285580174768832,
+            "best_ev": -0.12206455739947375
           },
           "ability_context": {
             "barrier": 4,
@@ -1822,11 +1822,11 @@
           "baseline": {
             "win_price": 8.0,
             "place_price": 1.8,
-            "model_win_prob": 0.1066313751566191,
-            "model_place_prob": 0.4600068855205335,
-            "win_ev": -0.14694899874704725,
-            "place_ev": -0.17198760606303976,
-            "best_ev": -0.14694899874704725
+            "model_win_prob": 0.106498341677076,
+            "model_place_prob": 0.4622060300172947,
+            "win_ev": -0.14801326658339198,
+            "place_ev": -0.16802914596886953,
+            "best_ev": -0.14801326658339198
           },
           "ability_context": {
             "barrier": 8,
@@ -1855,13 +1855,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 3.5,
+            "win_price": 3.7,
             "place_price": 1.3,
-            "model_win_prob": 0.24163492466225414,
-            "model_place_prob": 0.6325270919514989,
-            "win_ev": -0.15427776368211055,
-            "place_ev": -0.17771478046305134,
-            "best_ev": -0.15427776368211055
+            "model_win_prob": 0.22846043165502158,
+            "model_place_prob": 0.635534141943234,
+            "win_ev": -0.15469640287642006,
+            "place_ev": -0.1738056154737958,
+            "best_ev": -0.15469640287642006
           },
           "ability_context": {
             "barrier": 10,
@@ -1890,13 +1890,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 6.0,
-            "place_price": 1.57,
-            "model_win_prob": 0.13894458209609012,
-            "model_place_prob": 0.5217675296443323,
-            "win_ev": -0.16633250742345929,
-            "place_ev": -0.1808249784583983,
-            "best_ev": -0.16633250742345929
+            "win_price": 5.5,
+            "place_price": 1.5,
+            "model_win_prob": 0.15132899497587357,
+            "model_place_prob": 0.5484721555344388,
+            "win_ev": -0.16769052763269532,
+            "place_ev": -0.1772917666983418,
+            "best_ev": -0.16769052763269532
           },
           "ability_context": {
             "barrier": 11,
@@ -1927,11 +1927,11 @@
           "baseline": {
             "win_price": 21.0,
             "place_price": 3.75,
-            "model_win_prob": 0.03925573527058765,
-            "model_place_prob": 0.21796339217472294,
-            "win_ev": -0.17562955931765933,
-            "place_ev": -0.18263727934478902,
-            "best_ev": -0.17562955931765933
+            "model_win_prob": 0.03920656438743246,
+            "model_place_prob": 0.21902232893777276,
+            "win_ev": -0.17666214786391832,
+            "place_ev": -0.17866626648335215,
+            "best_ev": -0.17666214786391832
           },
           "ability_context": {
             "barrier": 3,
@@ -1962,11 +1962,11 @@
           "baseline": {
             "win_price": 41.0,
             "place_price": 6.25,
-            "model_win_prob": 0.01963748366310532,
-            "model_place_prob": 0.12879160410450363,
-            "win_ev": -0.1948631698126818,
-            "place_ev": -0.19505247434685224,
-            "best_ev": -0.1948631698126818
+            "model_win_prob": 0.01961287350041925,
+            "model_place_prob": 0.12941936413460797,
+            "win_ev": -0.19587218648281068,
+            "place_ev": -0.19112897415870012,
+            "best_ev": -0.19112897415870012
           },
           "ability_context": {
             "barrier": 6,
@@ -1995,13 +1995,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 23.0,
-            "place_price": 3.75,
-            "model_win_prob": 0.03369481707879939,
-            "model_place_prob": 0.2094761796681472,
-            "win_ev": -0.22501920718761392,
-            "place_ev": -0.214464326244448,
-            "best_ev": -0.214464326244448
+            "win_price": 26.0,
+            "place_price": 4.2,
+            "model_win_prob": 0.029764203523068473,
+            "model_place_prob": 0.18779171226193822,
+            "win_ev": -0.22613070840021965,
+            "place_ev": -0.21127480849985947,
+            "best_ev": -0.21127480849985947
           },
           "ability_context": {
             "barrier": 5,
@@ -2030,13 +2030,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 101.0,
-            "place_price": 13.0,
-            "model_win_prob": 0.007621606681553439,
-            "model_place_prob": 0.0598422392544981,
-            "win_ev": -0.23021772516310268,
-            "place_ev": -0.22205088969152464,
-            "best_ev": -0.22205088969152464
+            "win_price": 126.0,
+            "place_price": 14.5,
+            "model_win_prob": 0.006101265406575961,
+            "model_place_prob": 0.05390025876770518,
+            "win_ev": -0.2312405587714289,
+            "place_ev": -0.21844624786827493,
+            "best_ev": -0.21844624786827493
           },
           "ability_context": {
             "barrier": 9,
@@ -2065,13 +2065,13 @@
           "priority_tier": 4,
           "candidate_at_baseline": false,
           "baseline": {
-            "win_price": 61.0,
-            "place_price": 9.0,
-            "model_win_prob": 0.012453838956746306,
-            "model_place_prob": 0.0856448910352323,
-            "win_ev": -0.24031582363847537,
-            "place_ev": -0.22919598068290925,
-            "best_ev": -0.22919598068290925
+            "win_price": 71.0,
+            "place_price": 10.0,
+            "model_win_prob": 0.010685258548706581,
+            "model_place_prob": 0.07742521167062408,
+            "win_ev": -0.24134664304183273,
+            "place_ev": -0.22574788329375917,
+            "best_ev": -0.22574788329375917
           },
           "ability_context": {
             "barrier": 7,
