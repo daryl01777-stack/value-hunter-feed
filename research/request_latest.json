@@ -1,8 +1,8 @@
 {
   "schema": "value_hunter_unified_research_packet_v1_1",
-  "packet_id": "ac66e6d95568",
-  "created_utc": "2026-09-27T07:34:09.109809+00:00",
-  "source_queue_generated_utc": "2026-09-27T07:34:08.397683+00:00",
+  "packet_id": "a55c8587daac",
+  "created_utc": "2026-09-27T07:49:23.792506+00:00",
+  "source_queue_generated_utc": "2026-09-27T07:49:23.061223+00:00",
   "instructions": {
     "scope": "Research every runner in every selected race; do not research only P1/P2 runners.",
     "priority": "Priority controls processing order only.",
